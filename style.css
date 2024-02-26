@@ -1,0 +1,41 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+   
+}
+
+.heading{
+    text-align: center;
+    font-size: 2rem;
+    /* background-color: brown; */
+    color:blueviolet;
+    padding: 10px;
+    
+}
+
+#colorchanger{
+    height: 80px;
+    width: 200px;
+    border: solid 5px green;
+    border-radius: 10px;
+    font-size: 1.5rem;
+    margin: 20px;
+    color: green;
+}
+
+#stoper{
+    height: 80px;
+    width: 200px;
+    border: solid 5px black;
+    border-radius: 10px;
+    font-size: 1.5rem;
+    margin: 20px;
+    color: red;
+
+}
